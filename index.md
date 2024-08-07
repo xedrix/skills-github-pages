@@ -1,4 +1,1 @@
----
-title: Welcome to my blog
----
-
+# Xed's Blog
